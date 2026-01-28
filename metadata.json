@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Viagens de Técnicos 2026",
+  "description": "Uma planilha inteligente para gestão de viagens de técnicos para o ano de 2026, com suporte a IA para inserção automatizada de datas de saída e retorno, visualização semanal e destaque de domingos.",
+  "requestFramePermissions": []
+}
